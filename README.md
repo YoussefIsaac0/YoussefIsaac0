@@ -9,14 +9,21 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefIsaac0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=YoussefIsaac0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=YoussefIsaac0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150"  alt="streak graph"  />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussefIsaac0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+<hr>
+
+###
+<h3>I'm focused on Full-Stack development, I have a variety of skills helping me achieve business needs and functional requirements with ease</h3>
+
+###
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
 ###
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+<p>Skills like:</p>
 
 ###
 
