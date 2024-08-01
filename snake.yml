@@ -10,7 +10,7 @@ on:
     branches:
     - main
 
-jobs:h
+jobs:
   generate:
     permissions:
       contents: write
